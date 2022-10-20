@@ -1,0 +1,30 @@
+header {
+  @import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@400;700&display=swap');
+  font-family: 'Fuzzy Bubbles', cursive;
+  text-align: center;
+}
+
+header span {
+  font-size: 1.5rem;
+}
+
+section {
+  @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+  font-family: 'Lobster', cursive;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+section ul {
+  list-style: none;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  @import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@400;700&display=swap');
+  font-family: 'Fuzzy Bubbles', cursive;
+  text-align: center;
+}
